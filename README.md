@@ -49,8 +49,14 @@ Users can add new dishes by entering:
 
 3.6 Search Function and Filter Function added
 
-A search bar was added to help users find menu items by dish name. While filter can help users to filter menu items according to Course name.
+A search bar was added to help users find menu items by dish name. While filter can help users to filter menu items according to dish name
 
-3.7 Filter Functionality
+3.7 Total menu items and average added.
+
+- Total number of menu items.
+- Average price of menu items.
+- Number of starters.
+- Number of main courses.
+- Number of desserts.
 
 
