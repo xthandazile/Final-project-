@@ -47,3 +47,10 @@ Users can add new dishes by entering:
 - Click Cancel to keep the dish.
 - Click Delete to remove the dish.
 
+3.6 Search Function and Filter Function added
+
+A search bar was added to help users find menu items by dish name. While filter can help users to filter menu items according to Course name.
+
+3.7 Filter Functionality
+
+
