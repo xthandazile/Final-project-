@@ -28,3 +28,17 @@ Users can add new dishes by entering:
 - Course type
 - Price
 
+3.3 Created dropdown list
+
+- Starter
+- Main Course
+- Dessert
+
+ 3.4 Users can edit existing menu items.
+
+- Select the Edit button on a dish.
+- Update the dish information.
+- Click Update Menu Item to save the changes.
+
+
+
