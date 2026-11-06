@@ -40,5 +40,10 @@ Users can add new dishes by entering:
 - Update the dish information.
 - Click Update Menu Item to save the changes.
 
+3.5 Users can delete menu items they no longer need.
 
+- Click the Delete button.
+- A confirmation message appears asking whether the user wants to delete the dish.
+- Click Cancel to keep the dish.
+- Click Delete to remove the dish.
 
